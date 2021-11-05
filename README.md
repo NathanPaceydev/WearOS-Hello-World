@@ -1,1 +1,0 @@
-# WearOS-Hello-World
